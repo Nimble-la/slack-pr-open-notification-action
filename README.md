@@ -36,7 +36,7 @@ jobs:
         IS_PR_FROM_FORK: false
         SEND_USER_ID_MENTIONS : ABCDE12345,AAABBBCCCC
         SEND_GROUP_ID_MENTIONS : GROUPIDDDD,GGGGROUPID
-      uses: jun3453/slack-pr-open-notification-action@v1.3.0
+      uses: nimble-la/slack-pr-open-notification-action@master
 ```
 
 ### Arguments
